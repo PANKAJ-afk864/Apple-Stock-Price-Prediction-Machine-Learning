@@ -36,12 +36,7 @@ jupyter notebook cracking-the-apple-predicting-stock-prices.ipynb
 
 Make sure you have internet access for fetching data from APIs like Yahoo Finance.
 
-## 📌 Notes
-
-- The dataset is dynamically fetched via `yfinance` (no need to manually download stock data).
-- You can change the ticker or date range in the notebook for other stocks.
-
-## 📧 Contact
+## Contact
 
 Created by: Your Name  
-For queries: [your-email@example.com]
+For queries: pankajjsinghh376@gmail.com
