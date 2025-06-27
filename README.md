@@ -38,5 +38,5 @@ Make sure you have internet access for fetching data from APIs like Yahoo Financ
 
 ## Contact
 
-Created by: Your Name  
+Created by: Pankaj Kumar Singh  
 For queries: pankajjsinghh376@gmail.com
